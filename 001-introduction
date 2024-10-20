@@ -1,0 +1,18 @@
+.Net Core
+    - open-sourse
+    - cross platform, runs on Windows, MacOS, and Linux OS
+    - subset of .NET framework
+    - introduced in 2016 as successor of .NET framework
+    - can build android, IOS, Linux, Mac, and Windows
+    - written from - modular, lightweight and fast
+    - multi-lingual platform
+
+  Features:
+    - open-source
+    - cross-platform
+    - modular architecture
+    - supports multiple language
+    - consistent
+    - CLI tools (Modern Development)
+    - flexible deployment (Cloud Ready)
+    - compatibility
