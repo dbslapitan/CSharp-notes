@@ -3,9 +3,17 @@
     - use --help
 ** 
 
+
+dotnet is the driver
+
+dotnet <command> <argument> <options>
+
+dontnet --help
+
 dotnet --version
 dotnet new list  - list available templates
 ie: dotnet new console -n <Name of Project>
+dotnet new web --name=coreWebProject
 
 dotnet build - build project
 dotnet run - run project
