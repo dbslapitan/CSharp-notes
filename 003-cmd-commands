@@ -1,0 +1,11 @@
+** Recommendations: 
+    - do not use on OS Drive
+    - use --help
+** 
+
+dotnet --version
+dotnet new list  - list available templates
+ie: dotnet new console -n <Name of Project>
+
+dotnet build - build project
+dotnet run - run project
