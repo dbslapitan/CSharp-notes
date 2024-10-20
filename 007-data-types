@@ -1,0 +1,14 @@
+Categories:
+    value data type
+    pointer data type
+    reference data type
+
+
+Value Data Types:
+    int = whole numbers, 4bytes
+    long = whole number, 8bytes
+    float  = fractional (F at the end of number, ie: 100.50F), 4bytes, 6 - 7 decimal digits
+    double = fractional (D at the end of number, ie: 100.50D), 8bytes, 15 decimal digits
+    char = single letter, 2bytes
+    string = reference type, but value type declaration, stores characters 2bytes per character
+    boolean = true or false, 1bit

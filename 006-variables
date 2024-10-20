@@ -1,0 +1,6 @@
+Types of variables:
+    - local variables = block level
+    - instance variables or non-static = declared at class level
+    - static or class variable = common on all objects
+    - constant variables = values cannot be changed
+    - read only variables

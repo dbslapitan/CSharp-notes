@@ -3,6 +3,4 @@ Composition:
 CLI Tools: tooling for development and development
 Roslyn: Compiler for C# and VB
 CoreFX: framework labriaries
-CoreCLR: JIT based CLR(Command Languge Runtime)
-
-
+CoreCLR: JIT(just-in-time) based CLR(Command Languge Runtime) - compile and execute .NET applications, garbage collection
