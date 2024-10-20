@@ -1,0 +1,5 @@
+Core is open-source while only some components are open-source in Framework.
+Core is compatible with Windows, Linux and Mac(Write Once Run Anywhere) while Framework is Windows only.
+Core does not support desktop application while Framework supports desktop and web.
+Core has better performance than Framework.
+Core does not have Code Access Security while Framework does.
